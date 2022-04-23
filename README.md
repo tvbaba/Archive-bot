@@ -29,7 +29,7 @@ Example:
 --API_ID >> 1
 --API_HASH >> abcdef1234
 --BOT_TOKEN >> 1234567890:ABCDEF
---OWNER  >> 00009
+--OWNER_ID  >> 00009
 ```
 
 Run the bot
