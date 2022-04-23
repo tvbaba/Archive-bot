@@ -6,7 +6,7 @@ A telegram bot that allows compression of multiple files into a ZIP archive
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/Archive-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tvbaba/Archive-bot)
 
 
 ## Deploy locally
@@ -29,6 +29,7 @@ Example:
 --API_ID >> 1
 --API_HASH >> abcdef1234
 --BOT_TOKEN >> 1234567890:ABCDEF
+--OWNER  >> 00009
 ```
 
 Run the bot
